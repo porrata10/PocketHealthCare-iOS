@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.9.1)
+  - iOSDropDown (0.3.4)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - iOSDropDown
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - SwiftyJSON
+  trunk:
+    - iOSDropDown
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 93ff7d55d5892010d9c78b64909254d70a1897aa
+
+COCOAPODS: 1.9.0.beta.2

@@ -1,0 +1,6 @@
+framework module Pods_PocketHealthCare {
+  umbrella header "Pods-PocketHealthCare-umbrella.h"
+
+  export *
+  module * { export * }
+}
